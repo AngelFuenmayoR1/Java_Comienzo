@@ -12,6 +12,6 @@ public class Paso_3_Constante {
        final char G='G';
        final char E='E';
        final char L='L';
-       System.out.println("Mi nombre usando constante :"+A+N+G+E+L);
+       System.out.println("Mi nombre usando constante: "+A+N+G+E+L);
     }
 }
