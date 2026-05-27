@@ -1,4 +1,4 @@
-package Paso_2_Variables;
+package Paso_2;
 
 public class Paso_2_Variables_Primitivas {
   

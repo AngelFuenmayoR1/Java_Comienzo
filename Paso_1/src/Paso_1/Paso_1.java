@@ -1,4 +1,4 @@
-package paso_1;
+package Paso_1;
 
 public class Paso_1 {
 
